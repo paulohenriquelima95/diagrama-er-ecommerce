@@ -26,10 +26,9 @@ Além disso, o diagrama inclui relacionamentos entre essas entidades, como a ass
 
 ## Estrutura do Projeto
 - **diagrama-er-ecommerce/**
-  - [diagrama-er-ecommerce.png](diagrama-er-ecommerce.png)
-  - [diagrama-er-ecommerce.pdf](diagrama-er-ecommerce.pdf)
-  - [README.md](README.md)
-
+  - diagrama-er-ecommerce.png
+  - diagrama-er-ecommerce.pdf
+  - README.md
 csharp
 Copy code
 
