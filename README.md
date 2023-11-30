@@ -25,10 +25,10 @@ Além disso, o diagrama inclui relacionamentos entre essas entidades, como a ass
 3. Explore as entidades, atributos e relacionamentos no diagrama.
 
 ## Estrutura do Projeto
-/diagrama-er-ecommerce
-|-- diagrama-er-ecommerce.png
-|-- diagrama-er-ecommerce.pdf
-|-- README.md
+- **diagrama-er-ecommerce/**
+  - [diagrama-er-ecommerce.png](diagrama-er-ecommerce.png)
+  - [diagrama-er-ecommerce.pdf](diagrama-er-ecommerce.pdf)
+  - [README.md](README.md)
 
 csharp
 Copy code
@@ -38,5 +38,5 @@ Contribuições não são esperadas para este projeto, pois se trata apenas de u
 
 ## Contato
 ### Paulo Henrique Lima
-E-mail:  [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
-Linkedin:  [linkedin.com/in/paulohenriquelima95](www.linkedin.com/in/paulohenriquelima95)
+- E-mail:  [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
+- Linkedin:  [linkedin.com/in/paulohenriquelima95](www.linkedin.com/in/paulohenriquelima95)
