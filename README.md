@@ -1,4 +1,4 @@
-# Diagrama Entidade Relacionamento - Projeto Ecommerce - MySQL
+# Diagrama Entidade Relacionamento - Projeto E-commerce - MySQL
 
 ## Descrição
 Este projeto consiste em um diagrama de Entidade-Relacionamento (ER) para um sistema de e-commerce desenvolvido utilizando MySQL. O diagrama visa representar a estrutura do banco de dados do sistema, incluindo entidades, atributos e relacionamentos. O projeto faz parte do desafio do bootcamp Database Experience da DIO.
